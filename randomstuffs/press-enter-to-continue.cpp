@@ -4,7 +4,7 @@
 int main()
 {
     bool sent = false;
-    optional<sent> input;
+    optional<int> input;
 
     do 
     {
